@@ -1,0 +1,37 @@
+h1{
+color : #999966 ;
+text-decoration: underline;
+
+}
+p, card text{
+ font-size: 11px;
+ color: black;
+}
+p{
+ text-align: center;
+ font-size: 25px;
+}
+
+.card:hover {
+  box-shadow: 0 16px 22px 0 rgba(0,0,0,0.2);
+  
+}
+
+
+.price {
+  color: grey;
+  font-size: 22px;
+  
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: right;
+  text-align: center;
+  font-family: arial;
+  padding: 4px;
+}
+
+.points{
+  color: white;
+}
